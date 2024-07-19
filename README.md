@@ -1,2 +1,2 @@
-# aplicacao comparacao de inflacao e salario de 2010 ate 2020
+# Aplicação comparação de inflação e salário de 2010 ate 2020
  Comparando salarios e inflação
